@@ -1,13 +1,3 @@
 Download the video
-!picture
-
-
-
-!Hi Andrea
-
-I love you so much and I love you forever.
-
-
-
-
+!picture 
 carlostomaiolo-20250108-0005.mp4
