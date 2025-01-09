@@ -1,0 +1,1 @@
+Added picture to README
